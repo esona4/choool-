@@ -6,7 +6,7 @@ body {
 }
 
 ul {
-  list-style-type: none;
+  list-style-type: none; 
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -46,6 +46,8 @@ li a:hover {
   padding-bottom: 5.5%;
   font-size: larger;
 }
+
+
 .line-1 {
   text-align: end;
   padding-right: 2%;
